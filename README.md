@@ -1,11 +1,9 @@
-# Testing_Shipping
-Testing shipping process of a website.
+#  Ecommerce Website Automation Testing
+Automating the testing process for an ecommerce website, combining my proficiency in Selenium WebDriver, TestNG, and Maven. 
 
 https://www.saucedemo.com
 
 **This is a happy testing.**
-
-**It uses Maven build tool.**
 
 **Pre-requisites:**
 Selenium,
