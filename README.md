@@ -1,13 +1,18 @@
 # Testing_Shipping
 Testing shipping process of a website.
+
 https://www.saucedemo.com
 
 **This is a happy testing.**
 
-**Pre-requisites**
+**It uses Maven build tool.**
+
+**Pre-requisites:**
 Selenium,
 Webdriver &
 TestNG
+
+All the dependancies are already in the pom.xml
 
 
 
